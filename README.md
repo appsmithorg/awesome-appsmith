@@ -1,5 +1,7 @@
 # Awesome Appsmith [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
+<img width="100%" alt="awesome-appsmith-image" src="assets/images/awesome-appsmith.svg">
+
 ## Table of Contents
 
 - [What is Appsmith?](#what-is-appsmith)
