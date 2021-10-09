@@ -85,3 +85,4 @@
 3. Admin Panel with MongoDB - [App](https://app.appsmith.com/applications/6050ef5ac046f668d7bcc4be/pages/6050ef5ac046f668d7bcc4c0), [Tutorial](https://blog.appsmith.com/building-an-admin-panel-with-mongodb-using-appsmith)
 4. E-commerce Store - [App](https://app.appsmith.com/applications/6138a185dd7786286ddd4c5a/pages/6138a186dd7786286ddd4c5f), [Tutorial](https://blog.appsmith.com/building-an-e-commerce-store-using-appsmith-and-postgres)
 5. E-commerce Store Catalog Using MongoDB - [App](https://app.appsmith.com/applications/615e81c7ea18372f051046d9/pages/615e81c7ea18372f051046db)
+6. Students Fees Dashboard using Postgresql - [App](https://app.appsmith.com/applications/6161501fea18372f051054d5/pages/6161501fea18372f051054d9)
