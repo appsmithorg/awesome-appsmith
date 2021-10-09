@@ -14,7 +14,7 @@
 
 ## What is Appsmith?
 
-**Appsmith is a low code, open-source framework to build internal applications.**
+**Appsmith is a low code, open-source framework to build internal applications or tools.**
 
 🏗️ With our JavaScript-based visual development platform, build CRUD apps, Dashboards, Admin Panels, and many more 10x faster.
 
