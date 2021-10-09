@@ -81,9 +81,6 @@
 # Appsmith Templates
 
 1. Expense Manager - [App](https://app.appsmith.com/applications/612341c1695af65b46d7451f/pages/612341c1695af65b46d74521), [Tutorial](https://blog.appsmith.com/building-an-expense-manager-for-your-startup)
-
 2. Calendly Clone - [App](https://app.appsmith.com/applications/600186605b452f525458d6d2/pages/600186605b452f525458d6d4), [Tutorial](https://blog.appsmith.com/how-to-build-a-calendly-clone-in-30-minutes)
-
 3. Admin Panel with MongoDB - [App](https://app.appsmith.com/applications/6050ef5ac046f668d7bcc4be/pages/6050ef5ac046f668d7bcc4c0), [Tutorial](https://blog.appsmith.com/building-an-admin-panel-with-mongodb-using-appsmith)
-
 4. E-commerce Store - [App](https://app.appsmith.com/applications/6138a185dd7786286ddd4c5a/pages/6138a186dd7786286ddd4c5f), [Tutorial](https://blog.appsmith.com/building-an-e-commerce-store-using-appsmith-and-postgres)
