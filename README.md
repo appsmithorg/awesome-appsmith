@@ -68,14 +68,35 @@
 
 # Appsmith Videos
 
-1. [Appsmith Funding Announcement (With Founders)](https://youtu.be/IOIBxDVSx2U)
+1. [How To Create Custom Columns On The Table Widget](https://www.youtube.com/watch?v=Yyej4wN_ULU&list=PLE_KXGiWfqwhFYyJaOAUea3Lh2k2ZHv1C&index=1)
+1. [How To Make Responsive Apps On Appsmith](https://www.youtube.com/watch?v=huoJm8B3lbU&list=PLE_KXGiWfqwhFYyJaOAUea3Lh2k2ZHv1C&index=2)
+1. [How To Embed Appsmith In Your Website or Webapp](https://www.youtube.com/watch?v=l7508s-5VwU&list=PLE_KXGiWfqwhFYyJaOAUea3Lh2k2ZHv1C&index=3)
+1. [How To Handle Action Errors With JavaScript](https://www.youtube.com/watch?v=oWJ9smQLDoY&list=PLE_KXGiWfqwhFYyJaOAUea3Lh2k2ZHv1C&index=4)
+1. [How To Generate CRUD Apps From Your Database](https://www.youtube.com/watch?v=zyLDJnaxlzc&list=PLE_KXGiWfqwhFYyJaOAUea3Lh2k2ZHv1C&index=5)
+1. [How To Implement Custom Login/Authentication in Appsmith](https://www.youtube.com/watch?v=5oPcF9dXZyU&list=PLE_KXGiWfqwhFYyJaOAUea3Lh2k2ZHv1C&index=6)
+1. [How To Work With Local APIs And Databases On Appsmith](https://www.youtube.com/watch?v=IUX2rXmS17E&list=PLE_KXGiWfqwhFYyJaOAUea3Lh2k2ZHv1C&index=7)
+1. [How To Use The Appsmith Context Object](https://www.youtube.com/watch?v=5Z65l_PssEQ&list=PLE_KXGiWfqwhFYyJaOAUea3Lh2k2ZHv1C&index=8)
+1. [How To Setup Appsmith Locally For Server Side Development](https://www.youtube.com/watch?v=W2qbuUYGrQs&list=PLE_KXGiWfqwhFYyJaOAUea3Lh2k2ZHv1C&index=9)
+1. [How To Self Host Appsmith On Heroku](https://www.youtube.com/watch?v=Bclt_VmDMpo&list=PLE_KXGiWfqwhFYyJaOAUea3Lh2k2ZHv1C&index=10)
+
 
 # Appsmith Live Demos
 
-1. [Building a PgAdmin Alternative](https://youtu.be/UtuaRAkAL-g)
+1. [Building A PgAdmin Alternative](https://youtu.be/UtuaRAkAL-g)
+1. [Building An Employee Survey Dashboard With Supabase And N8N](https://www.youtube.com/watch?v=5izZ26yh_lw&list=PLE_KXGiWfqwhaf10ZnUB__X0gnL5OPMgq&index=2)
+1. [Building A Ticket Tracking System With Supabase And N8N](https://www.youtube.com/watch?v=9va1dofeiFA&list=PLE_KXGiWfqwhaf10ZnUB__X0gnL5OPMgq&index=3)
+1. [Building A Retail Analytics Dashboard With ArangoDB And N8N](https://www.youtube.com/watch?v=fk_BjjDQwQE&list=PLE_KXGiWfqwhaf10ZnUB__X0gnL5OPMgq&index=4)
+1. [Building A Task Manager With Low-Code](https://www.youtube.com/watch?v=LX528Iat8hg&list=PLE_KXGiWfqwhaf10ZnUB__X0gnL5OPMgq&index=5)
+1. [Building A Tweetdeck Clone With N8N](https://www.youtube.com/watch?v=mWZGn8kuIBo&list=PLE_KXGiWfqwhaf10ZnUB__X0gnL5OPMgq&index=6)
+1. [Building A CMS With Notion API](https://www.youtube.com/watch?v=O8GyCI-nRLI&list=PLE_KXGiWfqwhaf10ZnUB__X0gnL5OPMgq&index=7)
+1. [Stitching APIs To Automate Workflows](https://www.youtube.com/watch?v=_8qLbyWwXeA&list=PLE_KXGiWfqwhaf10ZnUB__X0gnL5OPMgq&index=8)
+1. [Building CRUD Apps With Google Sheets](https://www.youtube.com/watch?v=j6B2T-c-zOc&list=PLE_KXGiWfqwhaf10ZnUB__X0gnL5OPMgq&index=9)
+1. [Building A Support Helpdesk With Gmail And Postgres](https://www.youtube.com/watch?v=X_x_nRZf418&list=PLE_KXGiWfqwhaf10ZnUB__X0gnL5OPMgq&index=10)
+
 
 # Appsmith Events
 
+1. [Appsmith Funding Announcement (With Founders)](https://youtu.be/IOIBxDVSx2U)
 1. [Open Source with Appsmith, Supabase, N8N and Github: Hacktoberfest Edition!](https://youtu.be/PAQsN0ivF1E)
 
 # Appsmith Templates
