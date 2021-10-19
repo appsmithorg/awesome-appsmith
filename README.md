@@ -64,7 +64,7 @@
 16. [How to Run Manual Jobs in Gitlab CI/CD](https://www.appsmith.com/blog/how-to-run-manual-jobs-in-gitlab-ci-cd) `appsmith`
 17. [How to Build a Meeting Scheduler (Calendly Clone) in 30 Minutes](https://www.appsmith.com/blog/how-to-build-a-calendly-clone-in-30-minutes) `appsmith`
 18. [What is appsmith and what are its feature??](https://knowlegdeninja.blogspot.com/2021/10/what-is-appsmith-and-what-are-its.html) `blog`
-19. [Tutorial on how to make social media app using appsmith and n8n.](https://knowlegdeninja.blogspot.com/2021/10/tutorial-on-how-to-make-social-media.html) `Tutorial`
+19. [Tutorial on how to make social media app using appsmith and n8n.](https://knowlegdeninja.blogspot.com/2021/10/tutorial-on-how-to-make-social-media.html)`Tutorial`
 
 `appsmith` - Appsmith Official
 
