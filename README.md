@@ -67,6 +67,7 @@
 19. [Building an anime application on Appsmith](https://medium.com/@pradyumandixit/appsmith-tutorial-building-an-anime-information-and-voting-application-5912bfccca82) `blog`
 20. [How to build a simple Contact Us Form using LowCode tool AppSmith](https://askus.how/how-to-build-a-simple-form-using-lowcode-tool-appsmith/) `blog`
 
+
 `appsmith` - Appsmith Official
 
 # Appsmith Videos
