@@ -65,6 +65,7 @@
 17. [How to Build a Meeting Scheduler (Calendly Clone) in 30 Minutes](https://www.appsmith.com/blog/how-to-build-a-calendly-clone-in-30-minutes) `appsmith`
 18. [What is appsmith and what are its feature??](https://knowlegdeninja.blogspot.com/2021/10/what-is-appsmith-and-what-are-its.html) `blog`
 19. [Building an anime application on Appsmith](https://medium.com/@pradyumandixit/appsmith-tutorial-building-an-anime-information-and-voting-application-5912bfccca82) `blog`
+20. [Building A Product Management Tool Using Appsmith And FaunaDB](https://dev.to/curiouspaul1/building-a-product-management-tool-using-appsmith-and-faunadb-3mi) `blog`
 
 `appsmith` - Appsmith Official
 
