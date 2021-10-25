@@ -64,7 +64,8 @@
 16. [How to Run Manual Jobs in Gitlab CI/CD](https://www.appsmith.com/blog/how-to-run-manual-jobs-in-gitlab-ci-cd) `appsmith`
 17. [How to Build a Meeting Scheduler (Calendly Clone) in 30 Minutes](https://www.appsmith.com/blog/how-to-build-a-calendly-clone-in-30-minutes) `appsmith`
 18. [What is appsmith and what are its feature??](https://knowlegdeninja.blogspot.com/2021/10/what-is-appsmith-and-what-are-its.html) `blog`
-19. [Integrate Adalo with Appsmith](https://imknight.com/integrate-adalo-with-appsmith/) `blog`
+19. [Building an anime application on Appsmith](https://medium.com/@pradyumandixit/appsmith-tutorial-building-an-anime-information-and-voting-application-5912bfccca82) `blog`
+20. [Integrate Adalo with Appsmith](https://imknight.com/integrate-adalo-with-appsmith/) `blog`
 
 `appsmith` - Appsmith Official
 
@@ -111,4 +112,3 @@
 6. Student Fees Dashboard Using Postgesql - [App](https://app.appsmith.com/applications/6161501fea18372f051054d5/pages/6161501fea18372f051054d9)
 7. Validating User Input with JS and REGEX - [App](https://app.appsmith.com/applications/61328586987e5a1cc9ff7511/pages/616023beea18372f051050c9), [Tutorial](https://blog.greenflux.us/appsmith-tutorial-validating-user-input)
 8. Student Fees Dashboard Using MongoDB - [App](https://app.appsmith.com/applications/6162c6edea18372f05105828/pages/6162c6edea18372f0510582a)
-
