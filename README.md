@@ -63,16 +63,9 @@
 15. [Building an Admin Panel with MongoDB](https://www.appsmith.com/blog/building-an-admin-panel-with-mongodb-with-appsmith) `appsmith`
 16. [How to Run Manual Jobs in Gitlab CI/CD](https://www.appsmith.com/blog/how-to-run-manual-jobs-in-gitlab-ci-cd) `appsmith`
 17. [How to Build a Meeting Scheduler (Calendly Clone) in 30 Minutes](https://www.appsmith.com/blog/how-to-build-a-calendly-clone-in-30-minutes) `appsmith`
-<<<<<<< HEAD
-18. [What is appsmith and what are its feature??](https://knowlegdeninja.blogspot.com/2021/10/what-is-appsmith-and-what-are-its.html) `blog`
-19. [Building an anime application on Appsmith](https://medium.com/@pradyumandixit/appsmith-tutorial-building-an-anime-information-and-voting-application-5912bfccca82) `blog`
-20. [How to build a simple Contact Us Form using LowCode tool AppSmith](https://askus.how/how-to-build-a-simple-form-using-lowcode-tool-appsmith/) `blog`
-21. [How to set up Appsmith on the local system and Contribute to Appsmith](https://medium.com/@smishra1605/open-source-with-appsmith-49e8caf90245) `blog`
-
-=======
 18. [Building an anime application on Appsmith](https://medium.com/@pradyumandixit/appsmith-tutorial-building-an-anime-information-and-voting-application-5912bfccca82) `blog`
 19. [How to build a simple Contact Us Form using LowCode tool AppSmith](https://askus.how/how-to-build-a-simple-form-using-lowcode-tool-appsmith/) `blog`
->>>>>>> 1bf1c88acaa1a56a7696fa114f6bb308406a2fb0
+20. [How to set up Appsmith on the local system and Contribute to Appsmith](https://medium.com/@smishra1605/open-source-with-appsmith-49e8caf90245) `blog`
 
 `appsmith` - Appsmith Official
 
