@@ -66,6 +66,7 @@
 18. [What is appsmith and what are its feature??](https://knowlegdeninja.blogspot.com/2021/10/what-is-appsmith-and-what-are-its.html) `blog`
 19. [Building an anime application on Appsmith](https://medium.com/@pradyumandixit/appsmith-tutorial-building-an-anime-information-and-voting-application-5912bfccca82) `blog`
 20. [How to build a simple Contact Us Form using LowCode tool AppSmith](https://askus.how/how-to-build-a-simple-form-using-lowcode-tool-appsmith/) `blog`
+21. [How to set up Appsmith on the local system and Contribute to Appsmith](https://medium.com/@smishra1605/open-source-with-appsmith-49e8caf90245) `blog`
 
 
 `appsmith` - Appsmith Official
