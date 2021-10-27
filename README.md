@@ -63,7 +63,7 @@
 15. [Building an Admin Panel with MongoDB](https://www.appsmith.com/blog/building-an-admin-panel-with-mongodb-with-appsmith) `appsmith`
 16. [How to Run Manual Jobs in Gitlab CI/CD](https://www.appsmith.com/blog/how-to-run-manual-jobs-in-gitlab-ci-cd) `appsmith`
 17. [How to Build a Meeting Scheduler (Calendly Clone) in 30 Minutes](https://www.appsmith.com/blog/how-to-build-a-calendly-clone-in-30-minutes) `appsmith`
-
+18. [E-Commerce Store stock management Dashboard with MongoDB] (https://medium.com/@sanjiv12.8.2000/e-commerce-store-stock-management-dashboard-using-appsmith-and-mongodb-209c67ce14d6) `Community`
 `appsmith` - Appsmith Official
 
 # Appsmith Videos
