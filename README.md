@@ -65,6 +65,7 @@
 17. [How to Build a Meeting Scheduler (Calendly Clone) in 30 Minutes](https://www.appsmith.com/blog/how-to-build-a-calendly-clone-in-30-minutes) `appsmith`
 18. [Building an anime application on Appsmith](https://medium.com/@pradyumandixit/appsmith-tutorial-building-an-anime-information-and-voting-application-5912bfccca82) `blog`
 19. [How to build a simple Contact Us Form using LowCode tool AppSmith](https://askus.how/how-to-build-a-simple-form-using-lowcode-tool-appsmith/) `blog`
+21. [Integrate Adalo with Appsmith](https://imknight.com/integrate-adalo-with-appsmith/) `blog`
 
 `appsmith` - Appsmith Official
 
