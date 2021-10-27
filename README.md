@@ -64,6 +64,9 @@
 16. [How to Run Manual Jobs in Gitlab CI/CD](https://www.appsmith.com/blog/how-to-run-manual-jobs-in-gitlab-ci-cd) `appsmith`
 17. [How to Build a Meeting Scheduler (Calendly Clone) in 30 Minutes](https://www.appsmith.com/blog/how-to-build-a-calendly-clone-in-30-minutes) `appsmith`
 18. [E-Commerce Store stock management Dashboard with MongoDB] (https://medium.com/@sanjiv12.8.2000/e-commerce-store-stock-management-dashboard-using-appsmith-and-mongodb-209c67ce14d6) `Community`
+19. [Building an anime application on Appsmith](https://medium.com/@pradyumandixit/appsmith-tutorial-building-an-anime-information-and-voting-application-5912bfccca82) `blog`
+120. [How to build a simple Contact Us Form using LowCode tool AppSmith](https://askus.how/how-to-build-a-simple-form-using-lowcode-tool-appsmith/) `blog`
+
 `appsmith` - Appsmith Official
 
 # Appsmith Videos
@@ -79,7 +82,6 @@
 1. [How To Setup Appsmith Locally For Server Side Development](https://www.youtube.com/watch?v=W2qbuUYGrQs&list=PLE_KXGiWfqwhFYyJaOAUea3Lh2k2ZHv1C&index=9)
 1. [How To Self Host Appsmith On Heroku](https://www.youtube.com/watch?v=Bclt_VmDMpo&list=PLE_KXGiWfqwhFYyJaOAUea3Lh2k2ZHv1C&index=10)
 
-
 # Appsmith Live Demos
 
 1. [Building A PgAdmin Alternative](https://youtu.be/UtuaRAkAL-g)
@@ -92,7 +94,6 @@
 1. [Stitching APIs To Automate Workflows](https://www.youtube.com/watch?v=_8qLbyWwXeA&list=PLE_KXGiWfqwhaf10ZnUB__X0gnL5OPMgq&index=8)
 1. [Building CRUD Apps With Google Sheets](https://www.youtube.com/watch?v=j6B2T-c-zOc&list=PLE_KXGiWfqwhaf10ZnUB__X0gnL5OPMgq&index=9)
 1. [Building A Support Helpdesk With Gmail And Postgres](https://www.youtube.com/watch?v=X_x_nRZf418&list=PLE_KXGiWfqwhaf10ZnUB__X0gnL5OPMgq&index=10)
-
 
 # Appsmith Events
 
@@ -109,4 +110,3 @@
 6. Student Fees Dashboard Using Postgesql - [App](https://app.appsmith.com/applications/6161501fea18372f051054d5/pages/6161501fea18372f051054d9)
 7. Validating User Input with JS and REGEX - [App](https://app.appsmith.com/applications/61328586987e5a1cc9ff7511/pages/616023beea18372f051050c9), [Tutorial](https://blog.greenflux.us/appsmith-tutorial-validating-user-input)
 8. Student Fees Dashboard Using MongoDB - [App](https://app.appsmith.com/applications/6162c6edea18372f05105828/pages/6162c6edea18372f0510582a)
-
