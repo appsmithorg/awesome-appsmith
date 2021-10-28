@@ -65,8 +65,10 @@
 17. [How to Build a Meeting Scheduler (Calendly Clone) in 30 Minutes](https://www.appsmith.com/blog/how-to-build-a-calendly-clone-in-30-minutes) `appsmith`
 18. [Building an anime application on Appsmith](https://medium.com/@pradyumandixit/appsmith-tutorial-building-an-anime-information-and-voting-application-5912bfccca82) `blog`
 19. [How to build a simple Contact Us Form using LowCode tool AppSmith](https://askus.how/how-to-build-a-simple-form-using-lowcode-tool-appsmith/) `blog`
-20. [Integrate Adalo with Appsmith](https://imknight.com/integrate-adalo-with-appsmith/) `blog`
-21. [E-Commerce Store stock management Dashboard with MongoDB] (https://medium.com/@sanjiv12.8.2000/e-commerce-store-stock-management-dashboard-using-appsmith-and-mongodb-209c67ce14d6) `blog`
+20. [Creating a Delivery App in Appsmith](https://blog.greenflux.us/creating-a-delivery-app-in-appsmith) `appsmith`
+21. [Integrate Adalo with Appsmith](https://imknight.com/integrate-adalo-with-appsmith/) `blog`
+22. [E-Commerce Store stock management Dashboard with MongoDB] (https://medium.com/@sanjiv12.8.2000/e-commerce-store-stock-management-dashboard-using-appsmith-and-mongodb-209c67ce14d6) `blog`
+
 
 `appsmith` - Appsmith Official
 
