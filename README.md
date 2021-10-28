@@ -110,3 +110,4 @@
 6. Student Fees Dashboard Using Postgesql - [App](https://app.appsmith.com/applications/6161501fea18372f051054d5/pages/6161501fea18372f051054d9)
 7. Validating User Input with JS and REGEX - [App](https://app.appsmith.com/applications/61328586987e5a1cc9ff7511/pages/616023beea18372f051050c9), [Tutorial](https://blog.greenflux.us/appsmith-tutorial-validating-user-input)
 8. Student Fees Dashboard Using MongoDB - [App](https://app.appsmith.com/applications/6162c6edea18372f05105828/pages/6162c6edea18372f0510582a)
+9. Stripe Checkout Link Generator - [App](https://app.appsmith.com/applications/617927e5b2db5a27f21af69b/pages/617927e5b2db5a27f21af69d)
