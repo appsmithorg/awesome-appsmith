@@ -67,6 +67,7 @@
 19. [How to build a simple Contact Us Form using LowCode tool AppSmith](https://askus.how/how-to-build-a-simple-form-using-lowcode-tool-appsmith/) `blog`
 20. [Creating a Delivery App in Appsmith](https://blog.greenflux.us/creating-a-delivery-app-in-appsmith) `appsmith`
 21. [Integrate Adalo with Appsmith](https://imknight.com/integrate-adalo-with-appsmith/) `blog`
+22. [Building a Cryptocurrency Price Tracker](https://dev.to/iamrosalp/build-a-cryptocurrency-price-tracker-appsmith-5fd9) `blog`
 
 `appsmith` - Appsmith Official
 
