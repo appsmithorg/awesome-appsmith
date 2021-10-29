@@ -68,7 +68,8 @@
 20. [Creating a Delivery App in Appsmith](https://blog.greenflux.us/creating-a-delivery-app-in-appsmith) `appsmith`
 21. [Integrate Adalo with Appsmith](https://imknight.com/integrate-adalo-with-appsmith/) `blog`
 22. [Building a Cryptocurrency Price Tracker](https://dev.to/iamrosalp/build-a-cryptocurrency-price-tracker-appsmith-5fd9) `blog`
-23. [How to Create a Weather App in 5 mins](https://dev.to/iamrosalp/how-to-create-a-weather-app-in-5-mins-27f3) `blog`
+23. [E-Commerce Store stock management Dashboard with MongoDB] (https://medium.com/@sanjiv12.8.2000/e-commerce-store-stock-management-dashboard-using-appsmith-and-mongodb-209c67ce14d6) `blog`
+24. [How to Create a Weather App in 5 mins](https://dev.to/iamrosalp/how-to-create-a-weather-app-in-5-mins-27f3) `blog`
 
 `appsmith` - Appsmith Official
 
@@ -109,7 +110,7 @@
 2. Calendly Clone - [App](https://app.appsmith.com/applications/600186605b452f525458d6d2/pages/600186605b452f525458d6d4), [Tutorial](https://blog.appsmith.com/how-to-build-a-calendly-clone-in-30-minutes)
 3. Admin Panel with MongoDB - [App](https://app.appsmith.com/applications/6050ef5ac046f668d7bcc4be/pages/6050ef5ac046f668d7bcc4c0), [Tutorial](https://blog.appsmith.com/building-an-admin-panel-with-mongodb-using-appsmith)
 4. E-commerce Store - [App](https://app.appsmith.com/applications/6138a185dd7786286ddd4c5a/pages/6138a186dd7786286ddd4c5f), [Tutorial](https://blog.appsmith.com/building-an-e-commerce-store-using-appsmith-and-postgres)
-5. E-commerce Store Using MongoDB - [App](https://app.appsmith.com/applications/615e81c7ea18372f051046d9/pages/615e81c7ea18372f051046db)
+5. E-commerce Store Using MongoDB - [App](https://app.appsmith.com/applications/615e81c7ea18372f051046d9/pages/615e81c7ea18372f051046db) , [Tutorial](https://medium.com/@sanjiv12.8.2000/e-commerce-store-stock-management-dashboard-using-appsmith-and-mongodb-209c67ce14d6)
 6. Student Fees Dashboard Using Postgesql - [App](https://app.appsmith.com/applications/6161501fea18372f051054d5/pages/6161501fea18372f051054d9)
 7. Validating User Input with JS and REGEX - [App](https://app.appsmith.com/applications/61328586987e5a1cc9ff7511/pages/616023beea18372f051050c9), [Tutorial](https://blog.greenflux.us/appsmith-tutorial-validating-user-input)
 8. Student Fees Dashboard Using MongoDB - [App](https://app.appsmith.com/applications/6162c6edea18372f05105828/pages/6162c6edea18372f0510582a)
