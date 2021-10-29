@@ -68,7 +68,7 @@
 20. [Creating a Delivery App in Appsmith](https://blog.greenflux.us/creating-a-delivery-app-in-appsmith) `appsmith`
 21. [Integrate Adalo with Appsmith](https://imknight.com/integrate-adalo-with-appsmith/) `blog`
 22. [Building a Cryptocurrency Price Tracker](https://dev.to/iamrosalp/build-a-cryptocurrency-price-tracker-appsmith-5fd9) `blog`
-22. [How to set up Appsmith on the local system and Contribute to Appsmith](https://medium.com/@smishra1605/open-source-with-appsmith-49e8caf90245) `blog`
+23. [How to set up Appsmith on the local system and Contribute to Appsmith](https://medium.com/@smishra1605/open-source-with-appsmith-49e8caf90245) `blog`
 
 `appsmith` - Appsmith Official
 
