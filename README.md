@@ -87,6 +87,7 @@
 1. [How To Use The Appsmith Context Object](https://www.youtube.com/watch?v=5Z65l_PssEQ&list=PLE_KXGiWfqwhFYyJaOAUea3Lh2k2ZHv1C&index=8)
 1. [How To Setup Appsmith Locally For Server Side Development](https://www.youtube.com/watch?v=W2qbuUYGrQs&list=PLE_KXGiWfqwhFYyJaOAUea3Lh2k2ZHv1C&index=9)
 1. [How To Self Host Appsmith On Heroku](https://www.youtube.com/watch?v=Bclt_VmDMpo&list=PLE_KXGiWfqwhFYyJaOAUea3Lh2k2ZHv1C&index=10)
+1. [How to Deploy Appsmith on private instance using Docker](https://youtu.be/u5wV7V9koOg)
 
 # Appsmith Live Demos
 
