@@ -69,6 +69,7 @@
 21. [Integrate Adalo with Appsmith](https://imknight.com/integrate-adalo-with-appsmith/) `blog`
 22. [Building a Cryptocurrency Price Tracker](https://dev.to/iamrosalp/build-a-cryptocurrency-price-tracker-appsmith-5fd9) `blog`
 23. [E-Commerce Store stock management Dashboard with MongoDB] (https://medium.com/@sanjiv12.8.2000/e-commerce-store-stock-management-dashboard-using-appsmith-and-mongodb-209c67ce14d6) `blog`
+24. [Manage Appwrite data with Appsmith] (https://imknight.com/manage-appwrite-data-with-appsmith/) `blog`
 
 
 `appsmith` - Appsmith Official
