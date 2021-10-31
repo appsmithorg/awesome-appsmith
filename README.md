@@ -69,14 +69,17 @@
 21. [Integrate Adalo with Appsmith](https://imknight.com/integrate-adalo-with-appsmith/) `blog`
 22. [Building a Cryptocurrency Price Tracker](https://dev.to/iamrosalp/build-a-cryptocurrency-price-tracker-appsmith-5fd9) `blog`
 23. [E-Commerce Store stock management Dashboard with MongoDB](https://medium.com/@sanjiv12.8.2000/e-commerce-store-stock-management-dashboard-using-appsmith-and-mongodb-209c67ce14d6) `blog`
-24. [Manage Appwrite data with Appsmith](https://imknight.com/manage-appwrite-data-with-appsmith/) `blog`
-25. [E-Commerce Store stock management Dashboard with MongoDB](https://medium.com/@sanjiv12.8.2000/e-commerce-store-stock-management-dashboard-using-appsmith-and-mongodb-209c67ce14d6) `blog`
-26. [Building A Product Management Tool Using Appsmith and FaunaDB](https://dev.to/curiouspaul1/building-a-product-management-tool-using-appsmith-and-faunadb-3mi) `blog`
-27. [Building Internal Tools Using Appsmith, Flask And Heroku](https://dev.to/curiouspaul1/building-internal-tools-using-appsmith-flask-and-heroku-ih8) `blog`
-28. [How to Create a Weather App in 5 mins](https://dev.to/iamrosalp/how-to-create-a-weather-app-in-5-mins-27f3) `blog`
-29. [Building a Book Search App using AppSmith and GraphQL](https://dev.to/iamrosalp/how-to-work-with-graphql-on-appsmith-5ei) `blog`
-30. [Building a Real-Time Bitcoin Price Tracker in Appsmith](https://dev.to/devikakulkarni/building-a-real-time-bitcoin-price-tracker-in-appsmith-3gap) `blog`
-31. [Slacksmith: An OAuth 2.0 Flow Example in Appsmith](https://blog.greenflux.us/slacksmith-an-oauth-20-flow-example-in-appsmith) `blog`
+24. [Building A Product Management Tool Using Appsmith and FaunaDB](https://dev.to/curiouspaul1/building-a-product-management-tool-using-appsmith-and-faunadb-3mi) `blog`
+25. [Building Internal Tools Using Appsmith, Flask And Heroku](https://dev.to/curiouspaul1/building-internal-tools-using-appsmith-flask-and-heroku-ih8) `blog`
+26. [How to Deploy Appsmith on private instance using Docker](https://dev.to/noviicee/how-to-deploy-appsmith-on-private-instance-using-docker-eig) `blog`
+27. [Manage Appwrite data with Appsmith](https://imknight.com/manage-appwrite-data-with-appsmith/) `blog`
+28. [E-Commerce Store stock management Dashboard with MongoDB](https://medium.com/@sanjiv12.8.2000/e-commerce-store-stock-management-dashboard-using-appsmith-and-mongodb-209c67ce14d6) `blog`
+29. [Building A Product Management Tool Using Appsmith and FaunaDB](https://dev.to/curiouspaul1/building-a-product-management-tool-using-appsmith-and-faunadb-3mi) `blog`
+30. [Building Internal Tools Using Appsmith, Flask And Heroku](https://dev.to/curiouspaul1/building-internal-tools-using-appsmith-flask-and-heroku-ih8) `blog`
+31. [How to Create a Weather App in 5 mins](https://dev.to/iamrosalp/how-to-create-a-weather-app-in-5-mins-27f3) `blog`
+32. [Building a Book Search App using AppSmith and GraphQL](https://dev.to/iamrosalp/how-to-work-with-graphql-on-appsmith-5ei) `blog`
+33. [Building a Real-Time Bitcoin Price Tracker in Appsmith](https://dev.to/devikakulkarni/building-a-real-time-bitcoin-price-tracker-in-appsmith-3gap) `blog`
+34. [Slacksmith: An OAuth 2.0 Flow Example in Appsmith](https://blog.greenflux.us/slacksmith-an-oauth-20-flow-example-in-appsmith) `blog`
 
 
 `appsmith` - Appsmith Official
