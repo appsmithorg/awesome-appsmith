@@ -71,7 +71,16 @@
 23. [E-Commerce Store stock management Dashboard with MongoDB](https://medium.com/@sanjiv12.8.2000/e-commerce-store-stock-management-dashboard-using-appsmith-and-mongodb-209c67ce14d6) `blog`
 24. [Building A Product Management Tool Using Appsmith and FaunaDB](https://dev.to/curiouspaul1/building-a-product-management-tool-using-appsmith-and-faunadb-3mi) `blog`
 25. [Building Internal Tools Using Appsmith, Flask And Heroku](https://dev.to/curiouspaul1/building-internal-tools-using-appsmith-flask-and-heroku-ih8) `blog`
-27. [How to Deploy Appsmith on private instance using Docker](https://dev.to/noviicee/how-to-deploy-appsmith-on-private-instance-using-docker-eig) `blog`
+26. [How to Deploy Appsmith on private instance using Docker](https://dev.to/noviicee/how-to-deploy-appsmith-on-private-instance-using-docker-eig) `blog`
+27. [Manage Appwrite data with Appsmith](https://imknight.com/manage-appwrite-data-with-appsmith/) `blog`
+28. [E-Commerce Store stock management Dashboard with MongoDB](https://medium.com/@sanjiv12.8.2000/e-commerce-store-stock-management-dashboard-using-appsmith-and-mongodb-209c67ce14d6) `blog`
+29. [Building A Product Management Tool Using Appsmith and FaunaDB](https://dev.to/curiouspaul1/building-a-product-management-tool-using-appsmith-and-faunadb-3mi) `blog`
+30. [Building Internal Tools Using Appsmith, Flask And Heroku](https://dev.to/curiouspaul1/building-internal-tools-using-appsmith-flask-and-heroku-ih8) `blog`
+31. [How to Create a Weather App in 5 mins](https://dev.to/iamrosalp/how-to-create-a-weather-app-in-5-mins-27f3) `blog`
+32. [Building a Book Search App using AppSmith and GraphQL](https://dev.to/iamrosalp/how-to-work-with-graphql-on-appsmith-5ei) `blog`
+33. [Building a Real-Time Bitcoin Price Tracker in Appsmith](https://dev.to/devikakulkarni/building-a-real-time-bitcoin-price-tracker-in-appsmith-3gap) `blog`
+34. [Slacksmith: An OAuth 2.0 Flow Example in Appsmith](https://blog.greenflux.us/slacksmith-an-oauth-20-flow-example-in-appsmith) `blog`
+
 
 `appsmith` - Appsmith Official
 
@@ -87,6 +96,7 @@
 1. [How To Use The Appsmith Context Object](https://www.youtube.com/watch?v=5Z65l_PssEQ&list=PLE_KXGiWfqwhFYyJaOAUea3Lh2k2ZHv1C&index=8)
 1. [How To Setup Appsmith Locally For Server Side Development](https://www.youtube.com/watch?v=W2qbuUYGrQs&list=PLE_KXGiWfqwhFYyJaOAUea3Lh2k2ZHv1C&index=9)
 1. [How To Self Host Appsmith On Heroku](https://www.youtube.com/watch?v=Bclt_VmDMpo&list=PLE_KXGiWfqwhFYyJaOAUea3Lh2k2ZHv1C&index=10)
+1. [How to Deploy Appsmith on private instance using Docker](https://youtu.be/u5wV7V9koOg)
 
 # Appsmith Live Demos
 
@@ -116,3 +126,4 @@
 6. Student Fees Dashboard Using Postgesql - [App](https://app.appsmith.com/applications/6161501fea18372f051054d5/pages/6161501fea18372f051054d9)
 7. Validating User Input with JS and REGEX - [App](https://app.appsmith.com/applications/61328586987e5a1cc9ff7511/pages/616023beea18372f051050c9), [Tutorial](https://blog.greenflux.us/appsmith-tutorial-validating-user-input)
 8. Student Fees Dashboard Using MongoDB - [App](https://app.appsmith.com/applications/6162c6edea18372f05105828/pages/6162c6edea18372f0510582a)
+9. Stripe Checkout Link Generator - [App](https://app.appsmith.com/applications/617927e5b2db5a27f21af69b/pages/617927e5b2db5a27f21af69d)
