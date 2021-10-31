@@ -80,7 +80,7 @@
 32. [Building a Book Search App using AppSmith and GraphQL](https://dev.to/iamrosalp/how-to-work-with-graphql-on-appsmith-5ei) `blog`
 33. [Building a Real-Time Bitcoin Price Tracker in Appsmith](https://dev.to/devikakulkarni/building-a-real-time-bitcoin-price-tracker-in-appsmith-3gap) `blog`
 34. [Slacksmith: An OAuth 2.0 Flow Example in Appsmith](https://blog.greenflux.us/slacksmith-an-oauth-20-flow-example-in-appsmith) `blog`
-
+35. [How to set up Appsmith on the local system and Contribute to Appsmith](https://medium.com/@smishra1605/open-source-with-appsmith-49e8caf90245) `blog`
 
 `appsmith` - Appsmith Official
 
