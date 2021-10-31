@@ -73,6 +73,7 @@
 25. [Building Internal Tools Using Appsmith, Flask And Heroku](https://dev.to/curiouspaul1/building-internal-tools-using-appsmith-flask-and-heroku-ih8) `blog`
 26. [Building a Book Search App using AppSmith and GraphQL](https://dev.to/iamrosalp/how-to-work-with-graphql-on-appsmith-5ei) `blog`
 27. [Building a Real-Time Bitcoin Price Tracker in Appsmith](https://dev.to/devikakulkarni/building-a-real-time-bitcoin-price-tracker-in-appsmith-3gap) `blog`
+28. [Slacksmith: An OAuth 2.0 Flow Example in Appsmith](https://blog.greenflux.us/slacksmith-an-oauth-20-flow-example-in-appsmith) `blog`
 
 
 `appsmith` - Appsmith Official
