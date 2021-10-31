@@ -69,7 +69,12 @@
 21. [Integrate Adalo with Appsmith](https://imknight.com/integrate-adalo-with-appsmith/) `blog`
 22. [Building a Cryptocurrency Price Tracker](https://dev.to/iamrosalp/build-a-cryptocurrency-price-tracker-appsmith-5fd9) `blog`
 23. [E-Commerce Store stock management Dashboard with MongoDB](https://medium.com/@sanjiv12.8.2000/e-commerce-store-stock-management-dashboard-using-appsmith-and-mongodb-209c67ce14d6) `blog`
-24. [Slacksmith: An OAuth 2.0 Flow Example in Appsmith](https://blog.greenflux.us/slacksmith-an-oauth-20-flow-example-in-appsmith) `blog`
+24. [Building A Product Management Tool Using Appsmith and FaunaDB](https://dev.to/curiouspaul1/building-a-product-management-tool-using-appsmith-and-faunadb-3mi) `blog`
+25. [Building Internal Tools Using Appsmith, Flask And Heroku](https://dev.to/curiouspaul1/building-internal-tools-using-appsmith-flask-and-heroku-ih8) `blog`
+26. [Building a Book Search App using AppSmith and GraphQL](https://dev.to/iamrosalp/how-to-work-with-graphql-on-appsmith-5ei) `blog`
+27. [Building a Real-Time Bitcoin Price Tracker in Appsmith](https://dev.to/devikakulkarni/building-a-real-time-bitcoin-price-tracker-in-appsmith-3gap) `blog`
+28. [Slacksmith: An OAuth 2.0 Flow Example in Appsmith](https://blog.greenflux.us/slacksmith-an-oauth-20-flow-example-in-appsmith) `blog`
+
 
 `appsmith` - Appsmith Official
 
@@ -85,6 +90,7 @@
 1. [How To Use The Appsmith Context Object](https://www.youtube.com/watch?v=5Z65l_PssEQ&list=PLE_KXGiWfqwhFYyJaOAUea3Lh2k2ZHv1C&index=8)
 1. [How To Setup Appsmith Locally For Server Side Development](https://www.youtube.com/watch?v=W2qbuUYGrQs&list=PLE_KXGiWfqwhFYyJaOAUea3Lh2k2ZHv1C&index=9)
 1. [How To Self Host Appsmith On Heroku](https://www.youtube.com/watch?v=Bclt_VmDMpo&list=PLE_KXGiWfqwhFYyJaOAUea3Lh2k2ZHv1C&index=10)
+1. [How to Deploy Appsmith on private instance using Docker](https://youtu.be/u5wV7V9koOg)
 
 # Appsmith Live Demos
 
